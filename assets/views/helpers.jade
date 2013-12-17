@@ -1,0 +1,30 @@
+
+
+//-  _           _   _                  
+//- | |__  _   _| |_| |_ ___  _ __  ___ 
+//- | '_ \| | | | __| __/ _ \| '_ \/ __|
+//- | |_) | |_| | |_| || (_) | | | \__ \
+//- |_.__/ \__,_|\__|\__\___/|_| |_|___/
+                                    
+
+mixin base-topbar-button(link, icon, display)
+  a.item.button.icon(href=link)
+    i.icon(class=icon)
+    = display
+
+mixin base-topbar-button-right(link, icon, display)
+  a.item.right.button.icon(href=link)
+    i.icon(class=icon)
+    = display
+
+//-  _       _          _     
+//- | | __ _| |__   ___| |___ 
+//- | |/ _` | '_ \ / _ \ / __|
+//- | | (_| | |_) |  __/ \__ \
+//- |_|\__,_|_.__/ \___|_|___/
+                          
+
+mixin base-topbar-logo(logo)
+  a.item.button.icon
+    i.icon(class=logo)
+

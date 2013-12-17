@@ -1,0 +1,230 @@
+
+@import '../components/semantic-ui/src/elements/button.less';
+@import '../components/semantic-ui/src/elements/input.less';
+@import '../components/semantic-ui/src/collections/grid.less';
+@import '../components/semantic-ui/src/elements/segment.less';
+@import '../components/semantic-ui/src/elements/label.less';
+@import '../components/semantic-ui/src/elements/header.less';
+@import '../components/semantic-ui/src/elements/divider.less';
+@import '../components/semantic-ui/src/elements/basic.icon.less';
+@import '../components/semantic-ui/src/elements/icon.less';
+@import '../components/semantic-ui/src/elements/image.less';
+@import '../components/semantic-ui/src/elements/step.less';
+@import '../components/semantic-ui/src/collections/form.less';
+@import '../components/semantic-ui/src/collections/table.less';
+@import '../components/semantic-ui/src/collections/menu.less';
+@import '../components/semantic-ui/src/views/item.less';
+@import '../components/semantic-ui/src/views/list.less';
+@import '../components/semantic-ui/src/views/statistic.less';
+@import '../components/semantic-ui/src/modules/search.less';
+@import '../components/semantic-ui/src/modules/tab.less';
+@import '../components/semantic-ui/src/modules/accordion.less';
+@import '../components/semantic-ui/src/modules/rating.less';
+@import './site_fonts.less';
+
+body {
+  color: #34495e;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 1.231;
+}
+
+// @desktop:   ~"only screen and (min-width: 960px)";
+// @tablet:    ~"only screen and (min-width: 720px) and (max-width: 959px)";
+// @phone:    	~"only screen and (max-width: 719px)";
+// @mobile:    ~"only screen and (max-width: 960px)";
+
+// @facebook-color        : #3B5998;
+// @facebook-color-hover  : darken(@facebook-color, 10%);
+// @facebook-color-active : mix(@facebook-color, black, 85%);
+
+
+// @google-color        : #DD4B39;
+// @google-color-hover  : darken(@google-color, 10%);
+// @google-color-active : mix(@google-color, black, 85%);
+
+// @primary-color: #0839FF;
+// @highlight-color: #FFCE08;
+
+// /* Facebook */
+// .ui.facebook.button {
+//   background-color: @facebook-color;
+//   color: #FFFFFF;
+// }
+// .ui.facebook.button:hover {
+//   background-color: @facebook-color-hover;
+// }
+// .ui.facebook.button:active {
+//   background-color: @facebook-color-active;
+// }
+
+// /* Facebook */
+// .ui.google.button {
+//   background-color: @google-color;
+//   color: #FFFFFF;
+// }
+// .ui.google.button:hover {
+//   background-color: @google-color-hover;
+// }
+// .ui.google.button:active {
+//   background-color: @google-color-active;
+// }
+
+// /* Twitter */
+// .ui.twitter.button {
+//   background-color: #00ACED;
+//   color: #FFFFFF;
+// }
+// .ui.twitter.button:hover {
+//   background-color: #00B9FF;
+// }
+// .ui.twitter.button:active {
+//   background-color: #009EDA;
+// }
+
+// .col-md-1,
+// .col-md-2,
+// .col-md-3,
+// .col-md-4,
+// .col-md-5,
+// .col-md-6,
+// .col-md-7,
+// .col-md-8,
+// .col-md-9,
+// .col-md-10,
+// .col-md-11,
+// .col-md-12 {
+//   & > .ui.segment:first-child {
+//   margin-top   : 1em;
+// } 
+// }
+
+// .inner-grid 
+// {
+//   margin-top:  1em;
+
+//   & > .col-md-3:first-child,
+//   {
+//     padding: 0 !important;
+//   }
+//   @media @mobile {
+//     & > .col-md-3
+//     {
+//       padding: 0 !important;
+//       min-height: 2.5em;
+//     }
+//   }
+// }
+
+// .fill-row {
+//   min-height: 100%;
+// }
+
+// .fill-column {
+//   width: 100% !important;
+// }
+
+// .followee {
+//   min-width: 190px !important;
+// }
+
+// .row {
+//   & > .ui.segment:first-child {
+//   margin-top   : 1em;
+// } 
+// }
+
+// .center-sc-label {
+//   padding-top: 5px !important;
+// }
+
+// .add-some-padding-to-fields {
+//   padding-top: 7px !important;
+//   padding-left: 7px !important;
+// }
+
+// .slightly-spaced {
+//   margin-right: 5px !important;
+//   margin-top:   4px !important;
+// }
+
+// .slight-left-spaced {
+//   margin-left: 8px !important;
+// }
+
+// .image-centered
+// {
+//   margin-left: auto;
+//   margin-right: auto;
+//   float: none;
+// }
+
+// .terminal {
+//   border: none;
+//   font-family: "Inconsolata";
+//   font-style: normal;
+//   font-weight: 400;
+//   font-size: 12px;
+//   color: #000 !important;
+//   background: #fff !important;
+// }
+
+// @login-form-color: fade(#fff, 40%);
+
+// .login-form {
+//   background-color: @login-form-color !important;
+//   -webkit-box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+//   -moz-box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+//   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+
+// }
+
+// .ui.infog-statistic {
+//   text-align: center;
+//   & > .infog-value {
+//     & > .number {
+//       display: inline-block;
+//       font-size: 4em;
+//       font-weight: bold;
+//       // color: rgba(0, 0, 0, 0.7);
+//     }
+
+//     & > .type {
+//       display: inline-block;
+//       padding-left: 5px;
+//       opacity: 0.9;
+//     }
+//   }
+//   & > .description {
+//       opacity: 0.8;
+//   }
+
+// }
+
+// .mini-action {
+//   text-decoration: none !important;
+// }
+
+
+
+// .login-form:before {
+//   visibility: hidden;
+// }
+
+// html { 
+//   background: url('../img/background.jpg') no-repeat center center fixed; 
+  
+//   height: 100%;
+//   overflow: hidden;
+
+//   -webkit-background-size: cover;
+//   -moz-background-size: cover;
+//   -o-background-size: cover;
+//   background-size: cover;
+// }
+
+// body {
+//   height: 100%;
+//   overflow: scroll;
+//   -webkit-overflow-scrolling: touch;
+// }

@@ -1,0 +1,38 @@
+{
+  "clientJs": [{ "name": "./assets/js/entry.ls", "type": "ls" }],
+  "vendorJs": [
+    { "type": "js", "name": "./assets/components/jquery/jquery.js" },
+    { "type": "js", "name": "./assets/components/angular/angular.js" },
+    { "type": "js", "name": "./assets/components/angular-route/angular-route.js" },
+    { "type": "js", "name": "./assets/components/moment/moment.js" },
+    { "type": "js", "name": "./assets/components/underscore.string/lib/underscore.string.js" },
+    { "type": "js", "name": "./assets/components/usable-ace/ace.js" },
+    { "type": "js", "name": "./assets/components/usable-ace/mode-c_cpp.js" },
+    { "type": "js", "name": "./assets/components/usable-ace/mode-markdown.js" },
+    { "type": "js", "name": "./assets/components/angular-ui-ace/ui-ace.js" },
+    { "type": "js", "name": "./assets/components/semantic-ui/src/modules/behavior/api.js" },
+    {
+      "type": "js",
+      "name": "./assets/components/angular-bootstrap-datetimepicker/src/js/datetimepicker.js"
+    }
+  ],
+  "clientCss": [
+    {
+      "name": "./assets/components/angular-bootstrap-datetimepicker/src/css/datetimepicker.css",
+      "type": "css"
+    },
+    { "name": "./assets/css/main.less", "type": "less" }
+  ],
+  "clientImg": [{ "filesOfType": "png", "in": "./assets/img" }, { "filesOfType": "jpg", "in": "./assets/img" }],
+  "clientFonts": [
+    { "filesOfType": "woff", "in": "./assets/fonts" },
+    { "filesOfType": "otf", "in": "./assets/fonts" },
+    { "filesOfType": "eot", "in": "./assets/fonts" },
+    { "filesOfType": "svg", "in": "./assets/fonts" },
+    { "filesOfType": "ttf", "in": "./assets/fonts" }
+  ],
+  "clientHtml": [
+    { "name": "./assets/views/index.jade", "type": "jade", "root": true },
+    { "name": "./assets/views/example-view.jade", "type": "jade" }
+  ]
+}

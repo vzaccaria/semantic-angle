@@ -1,0 +1,14 @@
+{
+  "name": "assets",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.2.4",
+    "semantic-ui": "latest",
+    "moment": "~2.4.0",
+    "underscore": "~1.5.2",
+    "underscore.string": "~2.3.3",
+    "angular-ui-ace": "~0.0.4",
+    "angular-bootstrap-datetimepicker": "~0.2.1",
+    "angular-route": "~1.2.5"
+  }
+}

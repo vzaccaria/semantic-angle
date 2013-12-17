@@ -1,0 +1,1001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"sending-commands"
+			],
+			[
+				"dest",
+				"destination"
+			],
+			[
+				"rebuil",
+				"rebuild-all"
+			],
+			[
+				"rebu",
+				"rebuild-client-js"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"file",
+				"filter-by-category"
+			],
+			[
+				"fil",
+				"filter-by-category"
+			],
+			[
+				"compi",
+				"compile-to-css"
+			],
+			[
+				"src",
+				"src-checkout"
+			],
+			[
+				"build",
+				"buildenv-create"
+			],
+			[
+				"bul",
+				"buildenv-remove"
+			],
+			[
+				"prod",
+				"prod-openport"
+			],
+			[
+				"local",
+				"local-bin-dir"
+			],
+			[
+				"info",
+				"infoweb"
+			],
+			[
+				"sub",
+				"sub-dir"
+			],
+			[
+				"not",
+				"notifies-on-success"
+			],
+			[
+				"alia",
+				"aliases"
+			],
+			[
+				"get",
+				"get-call"
+			],
+			[
+				"indi",
+				"indirect-call"
+			],
+			[
+				"direct",
+				"direct-call"
+			],
+			[
+				"bu",
+				"build-tasks"
+			],
+			[
+				"create",
+				"create-esercitazione"
+			],
+			[
+				"cre",
+				"create-lezione"
+			],
+			[
+				"comm",
+				"comma-separated-tags"
+			],
+			[
+				"crea",
+				"create-content"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"task",
+				"task-function"
+			],
+			[
+				"decom",
+				"decompose-address"
+			],
+			[
+				"de",
+				"decompose-address"
+			],
+			[
+				"print",
+				"print-env"
+			],
+			[
+				"prin-",
+				"print-env"
+			],
+			[
+				"prin",
+				"print-env"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"dis",
+				"disp-ko"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"op",
+				"open-app"
+			],
+			[
+				"s",
+				"spr	sprintf"
+			],
+			[
+				"di",
+				"disp	disp"
+			],
+			[
+				"f",
+				"func	small function"
+			],
+			[
+				"d",
+				"dpdf"
+			],
+			[
+				"c",
+				"clear	clear"
+			],
+			[
+				"loc",
+				"local-bin-dir"
+			],
+			[
+				"bin",
+				"local-bin-dir"
+			],
+			[
+				"cu",
+				"current-environment"
+			],
+			[
+				"do-",
+				"do-tunnel"
+			],
+			[
+				"invok",
+				"invoke-ssh"
+			],
+			[
+				"run",
+				"run-ls-syslog"
+			],
+			[
+				"remove",
+				"remove-temporary-directory"
+			],
+			[
+				"set",
+				"setup-temporary-directory"
+			],
+			[
+				"deplo",
+				"deploy-server-dir"
+			],
+			[
+				"ugli",
+				"uglify"
+			],
+			[
+				"init",
+				"init-local-config"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"load",
+				"load-npm-tasks"
+			],
+			[
+				"expect",
+				"expect-everything"
+			],
+			[
+				"wait",
+				"wait-for-nothing"
+			],
+			[
+				"asse",
+				"assert-call-count"
+			],
+			[
+				"log",
+				"log-error"
+			],
+			[
+				"on",
+				"on-disconnect"
+			],
+			[
+				"out",
+				"out-pri"
+			],
+			[
+				"key",
+				"key-press"
+			],
+			[
+				"write-",
+				"write-on-term"
+			],
+			[
+				"is-",
+				"is-karma"
+			],
+			[
+				"filter",
+				"filter-this"
+			],
+			[
+				"tst",
+				"tst-karma"
+			],
+			[
+				"wri",
+				"write-on-socket"
+			],
+			[
+				"socket",
+				"socket-service"
+			],
+			[
+				"write",
+				"write-on-term"
+			],
+			[
+				"to",
+				"to-be"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"get-",
+				"get-session-by-id"
+			],
+			[
+				"ge",
+				"get-user-by-id"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"bar",
+				"bar-label"
+			],
+			[
+				"test",
+				"test-it"
+			],
+			[
+				"p_up",
+				"p_update_user"
+			],
+			[
+				"p_cr",
+				"p_create_user"
+			],
+			[
+				"with",
+				"with-object"
+			],
+			[
+				"vo",
+				"voto_informatica_b"
+			],
+			[
+				"giorn",
+				"giorno_nascita"
+			],
+			[
+				"gio",
+				"giorno_nascita"
+			],
+			[
+				"is-in",
+				"is-in-contest"
+			],
+			[
+				"server",
+				"server-interface"
+			],
+			[
+				"punti",
+				"punti_premio"
+			],
+			[
+				"clipboard",
+				"Clipboard"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/swiss-deploy-knife.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":remve",
+				"Package Control: Remove Package"
+			],
+			[
+				":vz",
+				"Snippet: vz.mk.compile"
+			],
+			[
+				"vz.",
+				"Snippet: vz.cb.recipe"
+			],
+			[
+				":vzmd",
+				"Snippet: vz.md.highlight.c"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				":vzh",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzhm",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzmt",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzhigh",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzexc",
+				"Snippet: vz.wb.excerpt"
+			],
+			[
+				":vzhima",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzhighma",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":high",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vz high",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vzhi",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				":mdspa",
+				"Snippet: vz.md.space"
+			],
+			[
+				":matl",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":exc",
+				"Snippet: vz.wb.excerpt"
+			],
+			[
+				":vzmat",
+				"Snippet: vz.md.math"
+			],
+			[
+				":hima",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":high ma",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":matla",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				":inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":vzma",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				":vm",
+				"Snippet: vz.md.highlight.matlab"
+			],
+			[
+				"snipp",
+				"Snippet: highlight_selection"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				":chs",
+				"Snippet: chs"
+			],
+			[
+				":ex",
+				"Snippet: excerpt"
+			],
+			[
+				":exce",
+				"Snippet: excerpt"
+			],
+			[
+				":pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				":gist",
+				"Gist: Open Gist"
+			],
+			[
+				":reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":instal",
+				"Package Control: Install Package"
+			],
+			[
+				":rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":insta",
+				"Package Control: Install Package"
+			],
+			[
+				":pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Snip1"
+			],
+			[
+				":new po",
+				"Jekyll: New Post"
+			],
+			[
+				":inst",
+				"Package Control: Install Package"
+			],
+			[
+				":alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				":align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				":zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				":html",
+				"Set Syntax: HTML"
+			],
+			[
+				":zenc",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				":previe",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				":ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				":pac",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 633.0
+	},
+	"console":
+	{
+		"height": 216.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/assets/js/entry.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/assets/views/example-view.jade",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/assets/views/helpers.jade",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/assets/views/index.jade",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/package.json",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.grunt/update",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.grunt/Gruntfile.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.grunt/config.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/assets/views/base.jade",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/config.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/config.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/Gruntfile.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/sk.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/config.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/task.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/parse-config.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/compile.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/tasks.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/preprosjs.ls",
+		"/Users/zaccaria/node_modules/wmake/src/plugins.ls",
+		"/Users/zaccaria/development/github/make4web/lib/plugins.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/xx",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/config.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/semantic-angle/.config/Gruntfile.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/web-ninja/bootstrap-tools/create-skeleton.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/package.json",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/src/config/bootstrap.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/task.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/config.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/connect.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/connect.ls",
+		"/Users/zaccaria/real-temp/ngrok.sh",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/jekyll.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/sk.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/scripts/useful.sh",
+		"/Users/zaccaria/short/website/_posts/2013-12-12-comunicazione-del-1212.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/actions.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/actions.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/test.js",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/swiss-deploy-knife.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/md2docx.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/make-enfield.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/infoweb-test.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/dotmakemk.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/Matlab.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/coffee.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/dotdotMakefile.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/Makefile.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/Makefilemk.sublime-build",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/applescript.sublime-build",
+		"/Users/zaccaria/Downloads/AulaDeDonato.kml",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/test.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/build/task.js",
+		"/Users/zaccaria/.zshrc",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/general.sh",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/test/e2e/node_modules/node-phantom/README.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/test/e2e/e2etest.ls",
+		"/Users/zaccaria/short/website/_posts/2013-12-11-lezione-del-1112-su-funzioni-ricorsione-stack.md",
+		"/Users/zaccaria/Dropbox/Commuting/Ricercatore TI 2011/Lezioni/2013-2014 Informatica B/Lucidi e lezioni/10 Dicembre 2013/tower_of_hanoi.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/gen.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/test/be/app-test.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/scripts/e2e-test",
+		"/Users/zaccaria/.ssh/ngrok_credentials.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/jekyll.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/ssh.ls",
+		"/Users/zaccaria/short/website/_posts/2013-12-10-esercitazione-del-1012-su-laboratorio-matlab.md",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/main2.c",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/esercizi_svolti_a_lezione.md",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/hello.x68",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/if.x68",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/while.x68",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/main.c",
+		"/Users/zaccaria/Desktop/lezione_acso_131209/for.x68",
+		"/Users/zaccaria/m68000/ese1.x68",
+		"/Users/zaccaria/m68000/ese1.X86",
+		"/Users/zaccaria/m68000/ese1.x86",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/makefile",
+		"/Users/zaccaria/short/website/_posts/2013-12-09-esercitazione-del-912-su-matlab-funzioni.md",
+		"/Users/zaccaria/Desktop/2013-12-09-lezione-del-912-su-matlab-funzioni.md",
+		"/Users/zaccaria/Dropbox/Commuting/Ricercatore TI 2011/Lezioni/2013-2014 Informatica B/Calendario e logistica/acso.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/makefile.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/data/template.jade",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/makefile",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/md/cv.md",
+		"/Users/zaccaria/node_modules/shelljs/README.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/src/cv-expand-into-html.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/print.less",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/assets/css/complete_style.less",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/t.html",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/cv.html",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/cv.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/cv2013/print.css",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/syslog.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/tunnel.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/sk-lib.ls",
+		"/Users/zaccaria/.ssh/sftp_credentials.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/src/print.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/dsl/ls-dsl/src/chain.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/swiss_tool/deploy.coffee",
+		"/Users/zaccaria/.ssh/sftp_credentials.json",
+		"/Users/zaccaria/Desktop/mail.md",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/Users/zaccaria/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zaccaria/Library/Mail Downloads/eserciziSuVettore.m",
+		"/Users/zaccaria/Library/Mail Downloads/eserciziSuMatrice.m",
+		"/Users/zaccaria/Library/Mail Downloads/scriptVettore.m",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/wm/node_modules/node-ffi/lib/ffi.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/wm/node_modules/node-ffi/test.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/wm/node_modules/NodObjC/lib/import.js",
+		"/Users/zaccaria/Downloads/node-ffi-master/lib/dynamic_library.js",
+		"/Users/zaccaria/Downloads/screenresolution-master/cg_utils.c",
+		"/Users/zaccaria/Downloads/screenresolution-master/cg_utils.",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/wm/capture.c",
+		"/Users/zaccaria/development/svn/devel/zaccaria/website/_posts/2013-12-04-lezione-del-3-dicembre-.md",
+		"/Users/zaccaria/Desktop/lectio/cicli.m",
+		"/Users/zaccaria/Desktop/lectio/funz.m",
+		"/Users/zaccaria/Desktop/lectio/fibo.m",
+		"/Users/zaccaria/Desktop/lectio/lezione-3-dicembre.md",
+		"/Users/zaccaria/Desktop/fibo.m",
+		"/Users/zaccaria/Desktop/lezione-3-dicembre.md",
+		"/Users/zaccaria/development/svn/devel/zaccaria/tools/deploy-dsl/swiss-deploy-knife/build/config.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/scripts/fe-test",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/package.json",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/infoweb/config/log.js",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/src/core/main-config.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/src/config/log.ls",
+		"/Users/zaccaria/development/svn/devel/zaccaria/infoweb/tools/config.ls"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pkg",
+			"init-local",
+			"pack",
+			"image",
+			"shell",
+			"Attenzione",
+			"filesOfType",
+			"console",
+			"console.log",
+			"client",
+			"shelljs",
+			"exec",
+			"nodemon",
+			"test",
+			"cafemocha",
+			"deploy",
+			"winston",
+			"sequence",
+			"test-run",
+			"tests",
+			"setup-tests",
+			"b ",
+			"prod-f",
+			"test-f",
+			"testf",
+			"zsh",
+			"x ",
+			"run-as",
+			"update",
+			"upda",
+			"local",
+			"zsh",
+			"argv.name",
+			"namespace",
+			"direct-call",
+			"call",
+			"default",
+			"decompose",
+			"default",
+			"close",
+			"include",
+			"localhost",
+			"1337",
+			"actions",
+			"decompose-",
+			"general",
+			"sequence",
+			"remote",
+			"bsh",
+			"save",
+			"path",
+			"require",
+			"sk-lib",
+			"save",
+			"propriet",
+			"^## ",
+			"^### ",
+			"^## ",
+			"=========",
+			"==========",
+			"=========",
+			"path",
+			"decompose",
+			"mount-",
+			"mount",
+			"target",
+			"nodes",
+			"argv",
+			"tunnel",
+			"tunnell",
+			"mount",
+			"mount-tunnel",
+			"connection",
+			"new",
+			"create-conn",
+			"new",
+			"__cnx",
+			"require",
+			"build-",
+			"lftp",
+			"get",
+			"connect-to",
+			"rexec",
+			"run",
+			"print-as-table",
+			"send-command",
+			"create-c",
+			"register-msg-handlers",
+			"create-connection",
+			"send-",
+			"close",
+			"create-",
+			"disp-ko",
+			"error",
+			"disp-ko",
+			"console.log",
+			"[debug]",
+			"[debug] ",
+			"if debug then console.log",
+			"console.log",
+			"log",
+			"console.log",
+			"setup",
+			"console.log",
+			"mount",
+			"cwd",
+			"setup-temporary",
+			"debug",
+			"nodes",
+			"local",
+			"@local",
+			"local",
+			"numIvars",
+			"bindings",
+			"Display",
+			"CG",
+			"outputs",
+			"^#\\s",
+			"# ",
+			"^#\\s ",
+			"# ",
+			"winston",
+			"menv",
+			"cc",
+			"loc",
+			"dbg",
+			"logger",
+			"debug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"### ",
+			"###",
+			"#### ",
+			"### "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 332.0
+	},
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/zaccaria/projects/trunk/curriculum/mqlambda/server/mqls/prova.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true
+}

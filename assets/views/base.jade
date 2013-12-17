@@ -1,0 +1,18 @@
+include helpers
+
+.ui.menu.main.transparent.inverted
+    .content 
+        +base-topbar-logo('signal')
+        +base-topbar-button("/#/me", 'home', 'Profile')
+            
+        .right.menu 
+            .borderless.item 
+                .ui.icon.input 
+                    input(type="text", placeholder="Search...")
+                    i.search.link.icon 
+
+        +base-topbar-button-right("/your-non-existing-logout", 'off', 'Logout')
+
+.container-fluid
+    .container
+        block content

@@ -1,0 +1,8 @@
+{
+  "name": "angular-bootstrap-datetimepicker",
+  "version": "0.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dalelotts/angular-bootstrap-datetimepicker"
+  }
+}

@@ -1,0 +1,18 @@
+include helpers
+
+extends base 
+block append content
+
+          .ui.segment                           
+            h2.ui.header Welcome to semantic-angle!
+            .ui.divider
+            p 
+                :markdown
+                    You have:
+
+                    * AngularJS
+                    * Semantic-UI
+                    * Grunt 
+                    * Livescript
+                
+                    Angular is {{ status }}; [ if scope works, you should see 'ok' ]
