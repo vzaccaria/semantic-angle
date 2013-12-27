@@ -1,6 +1,6 @@
 include helpers
 
-.ui.menu.main.transparent.inverted
+#topbar.ui.menu.main.transparent.inverted
     .content 
         +base-topbar-logo('signal')
         +base-topbar-button("/#/me", 'home', 'Profile')
@@ -13,6 +13,5 @@ include helpers
 
         +base-topbar-button-right("/your-non-existing-logout", 'off', 'Logout')
 
-.container-fluid
-    .container
+#layout.main.container
         block content

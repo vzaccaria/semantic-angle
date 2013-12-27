@@ -238,6 +238,12 @@ module.exports = (grunt) ->
 
         config.copy.browserified.files = [ "#{deploy-client-dir}/js/browserified.js": "#{build-dir}/browserified.js"]
 
+        config.copy.json = 
+           files: [
+                    { expand: true , src: "data/*.json" , dest: "#{deploy-client-dir}/" }
+                    ]
+
+
         config.compress = 
             main:
                 options: 
@@ -254,7 +260,7 @@ module.exports = (grunt) ->
         x 'compile:js'        , [ 'livescript'        , 'copy:buildjs'   , 'concat:buildjs' ]
         x 'compile:views'     , [ 'jade'              , 'less'           , 'copy:buildcss'    , 'concat:buildcss' ]
         x 'compile'           , [ 'compile:js'        , 'compile:views']
-        x 'copy:assets'       , [ 'copy:js'           , 'copy:views'     , 'copy:root'        , 'copy:fonts'        , 'imagemin' ]
+        x 'copy:assets'       , [ 'copy:js'           , 'copy:views'     , 'copy:root'        , 'copy:fonts'        , 'imagemin'           , 'copy:json' ]
         x 'deploy'            , [ 'clean'             , 'compile'        , 'copy:assets'      , 'browserify'        , 'copy:browserified']
         x 'deploy-production' , [ 'clean'             , 'compile'        , 'uglify'           , 'copy:assets'       , 'browserify'         , 'copy:browserified' , 'compress']
         x 'default'           , [ 'deploy']
